@@ -48,7 +48,7 @@
 </tr>
 <tr>
 <td>Remove links</td>
-<td><a href="https://html-online.com">This is</a> a link.</td>
+<td><a href="hoge-scheme://hoge-host">This is</a> a link.</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
